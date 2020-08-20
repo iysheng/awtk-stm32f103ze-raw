@@ -1,0 +1,4 @@
+[submodule "awtk@master"]
+	path = awtk@master
+	url = https://github.com/zlgopen/awtk.git
+	branch = master
